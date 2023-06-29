@@ -1,6 +1,4 @@
-package sg.edu.np.mad.madpracticalweek2;
-
-import androidx.appcompat.app.AppCompatActivity;
+package sg.edu.np.mad.madpractical;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,7 +8,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import org.w3c.dom.Text;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     final String TITLE = "Main Activity";

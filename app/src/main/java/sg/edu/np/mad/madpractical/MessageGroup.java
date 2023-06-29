@@ -1,11 +1,11 @@
-package sg.edu.np.mad.madpracticalweek2;
-
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.FragmentManager;
+package sg.edu.np.mad.madpractical;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.FragmentManager;
 
 public class MessageGroup extends AppCompatActivity {
 
